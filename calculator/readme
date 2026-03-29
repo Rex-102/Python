@@ -1,0 +1,3 @@
+#Calculator
+This project consists of a calculator that does basic mathematic operations such as addition, substraction, multiplication and division.
+The user are prompted to enter two numbers and choose an operater from a list shown in the terminal.
